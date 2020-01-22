@@ -1,0 +1,16 @@
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\Promart.deps.json
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\Promart.runtimeconfig.json
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\Promart.runtimeconfig.dev.json
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\Promart.dll
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.csprojAssemblyReference.cache
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.RazorAssemblyInfo.cache
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.RazorAssemblyInfo.cs
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.AssemblyInfoInputs.cache
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.AssemblyInfo.cs
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.RazorTargetAssemblyInfo.cache
+D:\Netore\Promart\Promart\Promart\bin\Debug\netcoreapp2.2\Promart.pdb
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.dll
+D:\Netore\Promart\Promart\Promart\obj\Debug\netcoreapp2.2\Promart.pdb
